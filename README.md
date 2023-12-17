@@ -22,8 +22,6 @@ Hello, my name is Guilherme Daros, I'm a programmer and I'm currently learning a
 <p/>
 <br/>
 <br/>
-  
-[![guiDaros GitHub stats](https://github-readme-stats.vercel.app/api?username=guiDaros)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
