@@ -26,14 +26,6 @@ I’m continuously learning through **courses and personal projects** to enhance
 
 ---
 
-### 📈 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0aff0a/guiDaros?background=0d1117&color=00c853" alt="GitHub contributions chart dark" />
-</p>
-
----
-
 ### 📫 Contact me
 
 <a href="https://www.instagram.com/guilherme.vdaros/" target="_blank">Instagram</a><br/><br/> <a href="https://www.linkedin.com/in/guilherme-vassoller-daros/" target="_blank">LinkedIn</a><br/><br/> <a href="mailto:guivdaros@gmail.com" target="_blank">Gmail</a>
